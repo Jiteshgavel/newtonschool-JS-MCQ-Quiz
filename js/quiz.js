@@ -22,7 +22,7 @@ let questions = [
         correct : "B"
     },{
         question : "JavaScript ignores?",
-        imgSrc : "img/css.png",
+        imgSrc : "img/js.png",
         choiceA : "spaces",
         choiceB : "newlines",
         choiceC : "Both",
